@@ -1,0 +1,6 @@
+com/mda/model/Book.class
+com/mda/config/SwaggerConfig.class
+com/mda/controller/BookController.class
+com/mda/service/BookService.class
+com/mda/repository/BookRepository.class
+com/mda/example/SpringSwaggerApplication.class
